@@ -19,6 +19,9 @@
 ### Handle 1000
 * Input: 1000
 * Output: M
+### Handle any number from 0 - 9
+* Input: 8, 4
+* Output: VIII, IV
 ### Handle numbers resulting in multiple Roman numerals of the same type
 * Input: 3, 2000
 * Output: III, MM
